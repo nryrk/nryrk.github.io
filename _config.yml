@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Onur Yörük"
+  name     : "Onur Yoruk"
 
 plugins:
   - jekyll-sitemap
@@ -37,8 +37,8 @@ plugins:
 
 # navbar pages
 navbar:
-  - slug : about
-    title: About
+  - slug : privacy
+    title: Privacy
 
 exclude:
   - "gulp"
